@@ -1,1 +1,1 @@
-# ReactTimer
+Timer React App
